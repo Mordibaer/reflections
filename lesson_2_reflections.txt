@@ -3,3 +3,6 @@
 
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 - The working directory holdes the original files. the staging area only list the files you wante to commit to the repositry. It is a kinde of "system cache" whiche helpss you to organise your work in to logical parts.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+- You can manualy put one file by another in to this stage area. it is like a bag you pack for a travel. only this files you have in it go with you. ;)
