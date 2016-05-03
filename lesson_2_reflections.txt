@@ -1,0 +1,5 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+- When I initialize a repository a hidden folder is created called ".git"
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+- The working directory holdes the original files. the staging area only list the files you wante to commit to the repositry. It is a kinde of "system cache" whiche helpss you to organise your work in to logical parts.
