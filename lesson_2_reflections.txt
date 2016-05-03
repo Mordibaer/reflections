@@ -10,3 +10,6 @@
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 - If you wante to do some experimental stuf you can easyli make a new branch, make your changes and if it doesent work nothing is lost, you can easily go back to your normal or master brunche.
 - Also you may have mor then 1 branche which helps you to work on some functions at the same time or eaven in team without disturing eachother.
+
+5. How do the diagrams help you visualize the branch structure?
+- It helps me to see where diferent branches split of the master branch and whiche changes where made before and after that.
