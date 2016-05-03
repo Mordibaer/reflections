@@ -6,3 +6,7 @@
 
 3. How can you use the staging area to make sure you have one commit per logical change?
 - You can manualy put one file by another in to this stage area. it is like a bag you pack for a travel. only this files you have in it go with you. ;)
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- If you wante to do some experimental stuf you can easyli make a new branch, make your changes and if it doesent work nothing is lost, you can easily go back to your normal or master brunche.
+- Also you may have mor then 1 branche which helps you to work on some functions at the same time or eaven in team without disturing eachother.
